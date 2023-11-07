@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio1._4.Views.PageDetalleRegistro"
+             xmlns:conver="clr-namespace:Ejercicio1._4.Controllers"
+             Title="SELECCIONASTE A:">
+
+    <ContentPage.Resources>
+        <conver:ByteArrayImage x:Key="ByteArray"/>
+    </ContentPage.Resources>
+
+
+    <ContentPage.Content>
+
+
+        <CollectionView x:Name="lista">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical"
+                               ItemSpacing="15">
+                </LinearItemsLayout>
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0" 
+                           x:Name="imagen"
+                           HeightRequest="200"
+                           WidthRequest="200"
+                           Source="{Binding foto, Converter={StaticResource ByteArray} }"/>
+
+                        <Label Grid.Column="1" Text="{Binding nombres}" FontSize="Medium" />
+
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+    </ContentPage.Content>
+
+</ContentPage>

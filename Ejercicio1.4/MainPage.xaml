@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio1._4.MainPage"
+             Title="¡Bienvenidos!">
+
+    <StackLayout>
+
+        <Image x:Name="foto" WidthRequest="100" HeightRequest="200"/>
+        <Button x:Name="btnfoto" Text="Tomar" Clicked="btnfoto_Clicked"/>
+
+        <Entry Keyboard="Text" Placeholder="NOMBRE COMPLETO" x:Name="_nombre"/>
+        <Entry Keyboard="Text" Placeholder="DESCRIPCION" x:Name="_des"/>
+        
+        <Button x:Name="btnGuardar" Text="Registrar" Clicked="btnGuardar_Clicked"/>
+        <Button x:Name="btnLista" Text="Lista" Clicked="btnLista_Clicked"/>
+
+
+    </StackLayout>
+
+</ContentPage>

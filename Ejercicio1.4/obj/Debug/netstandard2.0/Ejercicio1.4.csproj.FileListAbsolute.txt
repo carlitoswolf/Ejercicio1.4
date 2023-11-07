@@ -1,0 +1,17 @@
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.csproj.AssemblyReference.cache
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.AssemblyInfoInputs.cache
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.AssemblyInfo.cs
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.csproj.CoreCompileInputs.cache
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Views\PageLista.xaml.g.cs
+C:\Practices\Ejercicio1.4\Ejercicio1.4\bin\Debug\netstandard2.0\Ejercicio1.4.deps.json
+C:\Practices\Ejercicio1.4\Ejercicio1.4\bin\Debug\netstandard2.0\Ejercicio1.4.dll
+C:\Practices\Ejercicio1.4\Ejercicio1.4\bin\Debug\netstandard2.0\ref\Ejercicio1.4.dll
+C:\Practices\Ejercicio1.4\Ejercicio1.4\bin\Debug\netstandard2.0\Ejercicio1.4.pdb
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.dll
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\refint\Ejercicio1.4.dll
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Ejercicio1.4.pdb
+C:\Practices\Ejercicio1.4\Ejercicio1.4\obj\Debug\netstandard2.0\Views\PageDetalleRegistro.xaml.g.cs
